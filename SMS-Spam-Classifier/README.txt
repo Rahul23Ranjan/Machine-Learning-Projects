@@ -1,0 +1,1 @@
+From kaggle the dataset is downloaded and after necessary preprocessing, we have performed the natural langurage processing and Naive Bayes model on it. 
